@@ -7,6 +7,8 @@ import PillNav from './PillNav';
 import emailjs from '@emailjs/browser';
 
 const App = () => {
+  <title>Ahmed Portfolio</title>
+
   const [scrollOpacity, setScrollOpacity] = useState(1);
   const [hasAnimated, setHasAnimated] = useState(false);
   const [activeSection, setActiveSection] = useState('#');
