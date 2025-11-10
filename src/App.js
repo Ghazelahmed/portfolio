@@ -346,7 +346,7 @@ const App = () => {
     }}
   >
     <a
-      href="https://github.com/ahmedghazel"
+      href="https://github.com/ghazelahmed"
       target="_blank"
       rel="noopener noreferrer"
       style={{ color: '#ffd700', transition: 'color 0.3s' }}
@@ -357,7 +357,7 @@ const App = () => {
     </a>
 
     <a
-      href="https://www.linkedin.com/in/ahmedghazel"
+      href="https://www.linkedin.com/in/ahmed-ghazel-assouad"
       target="_blank"
       rel="noopener noreferrer"
       style={{ color: '#ffd700', transition: 'color 0.3s' }}
